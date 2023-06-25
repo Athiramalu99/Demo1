@@ -1,0 +1,15 @@
+.banner{
+    background-color : lime;
+    width :100%;
+    height : 100px;
+    margin-bottom : 50px
+}
+
+.banner-text{
+    color : black;
+    top : 5%;
+    left : 45%;
+    position : absolute;
+    transform : transform;
+
+}
